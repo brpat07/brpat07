@@ -8,7 +8,7 @@ func IntroBot() {
     
     portfolio_at  := "<a href="https://brindal-patel.appspot.com" alt="html" title="assign documentation">brindal-patel.appspot.com</a>"
     
-    engineer_at   :=  <a href="https://www.twilio.com/"><img src="https://github.com/brpat07/brpat07/blob/master/svg/twilio.svg" alt="html" style="vertical-align:top; horizontal-align:center;background-color:#EDEDED" width=8%></a>
+    engineer_at   :=  <a href="https://www.meta.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="html" style="vertical-align:top; horizontal-align:center;background-color:#EDEDED" width=8%></a>
     
     fmt.Println("Programming & fixing bugs with this ^ bot!")
 }
